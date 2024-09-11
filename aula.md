@@ -16,15 +16,34 @@
 
 ## Escopos e variáveis:
 
-Variáveis globais e locais
-Constantes
+- [x] Variáveis globais e locais
+- [x] Constantes
 
 ## Tipos de dados
 
-Strings (textos): "" '' ``
-Number (números)
-Function
+- [x] Strings (textos): "" '' ``
+- [x] Number (números)
+- [x] Boolean: true, false
 
 ## Operadores
 
-Operadores de atribuiçãod e valor (=)
+- [x] Operador de atribuiçãod e valor (=)
+- [x] Operador de concatenação (+)
+
+## Estruturas de dados:
+
+### Arrayes:
+
+- [x] Uma lista que contém qualquer tipo de dado
+
+### Objetos:
+
+- [x] Atributps de métodos
+- [x] Criação e manipulação de objetos
+- [x] Acesso a propriedades de objetos
+
+### Funtions
+
+- [x] Criar, passar argumento
+- [x] Executar
+- [x] Arrow function / Named function
