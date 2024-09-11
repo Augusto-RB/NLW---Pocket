@@ -29,6 +29,7 @@
 
 - [x] Operador de atribuiçãod e valor (=)
 - [x] Operador de concatenação (+)
+- [x] Operadores de comparação: == != > < <= >= 
 
 ## Estruturas de dados:
 
@@ -55,6 +56,7 @@
 # Condicionais
 
 - [x] Switch
+- [x] Controle de fluxo if
 
 ## Módulos em Node.js
 
