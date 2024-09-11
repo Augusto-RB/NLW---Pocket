@@ -13,3 +13,18 @@
 - Coletar dados
 - Processar dados (manipular, alterar ...)
 - Apresentar os dados
+
+## Escopos e variáveis:
+
+Variáveis globais e locais
+Constantes
+
+## Tipos de dados
+
+Strings (textos): "" '' ``
+Number (números)
+Function
+
+## Operadores
+
+Operadores de atribuiçãod e valor (=)
