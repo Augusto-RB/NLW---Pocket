@@ -51,3 +51,7 @@
 # Estruturas de repetição
 
 - [x] While
+
+# Condicionais
+
+- [x] Switch
