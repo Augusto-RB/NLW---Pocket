@@ -29,13 +29,15 @@
 
 - [x] Operador de atribuiçãod e valor (=)
 - [x] Operador de concatenação (+)
-- [x] Operadores de comparação: == != > < <= >= 
+- [x] Operadores de comparação: == != > < <= >=
+- [x] Spread operator: ...
 
 ## Estruturas de dados:
 
-### Arrayes:
+### Arrays:
 
 - [x] Uma lista que contém qualquer tipo de dado
+- [x] Métodos de array: push, [find, forEach, filter] -> HOF( higher order functions)
 
 ### Objetos:
 
@@ -66,4 +68,4 @@
 ## Programação assíncrona e Promises:
 
 - [x] Uso de funções assíncronas (assync/await)
-- [x] 
+- [x]
